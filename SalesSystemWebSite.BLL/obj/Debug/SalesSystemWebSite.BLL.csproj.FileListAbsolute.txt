@@ -1,0 +1,11 @@
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\obj\Debug\SalesSystemWebSite.BLL.csprojAssemblyReference.cache
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\obj\Debug\SalesSystemWebSite.BLL.csproj.CoreCompileInputs.cache
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.BLL.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.BLL.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.DAL.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.Enities.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.DAL.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\bin\Debug\SalesSystemWebSite.Enities.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\obj\Debug\SalesSystemWebSite.BLL.csproj.CopyComplete
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\obj\Debug\SalesSystemWebSite.BLL.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.BLL\obj\Debug\SalesSystemWebSite.BLL.pdb
