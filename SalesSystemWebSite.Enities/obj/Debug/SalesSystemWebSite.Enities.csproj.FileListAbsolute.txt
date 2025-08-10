@@ -1,0 +1,6 @@
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\bin\Debug\SalesSystemWebSite.Enities.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\bin\Debug\SalesSystemWebSite.Enities.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\obj\Debug\SalesSystemWebSite.Enities.csproj.CoreCompileInputs.cache
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\obj\Debug\SalesSystemWebSite.Enities.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\obj\Debug\SalesSystemWebSite.Enities.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.Enities\obj\Debug\SalesSystemWebSite.Enities.csprojAssemblyReference.cache
