@@ -1,0 +1,14 @@
+C:\Projects\Sales system\SalesSystemDataBase\bin\Debug\SalesSystemDataBase.dacpac
+C:\Projects\Sales system\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.sqlprojAssemblyReference.cache
+C:\Projects\Sales system\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.dll
+C:\Projects\Sales system\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.pdb
+C:\Projects\SalesSystem\SalesSystemDataBase\bin\Debug\SalesSystemDataBase.dacpac
+C:\Projects\SalesSystem\SalesSystemDataBase\bin\Debug\SalesSystemDataBase.dll
+C:\Projects\SalesSystem\SalesSystemDataBase\bin\Debug\SalesSystemDataBase.pdb
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.dll
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.pdb
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\Model.xml
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\refactor.xml
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\postdeploy.sql
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\predeploy.sql
+C:\Projects\SalesSystem\SalesSystemDataBase\obj\Debug\SalesSystemDataBase.sqlprojAssemblyReference.cache

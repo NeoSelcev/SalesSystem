@@ -1,0 +1,11 @@
+﻿CREATE TABLE [dbo].[Order]
+(
+	[Id] INT IDENTITY (1, 1) UNIQUE,
+	[CustomerId] INT NOT NULL,
+	[Status] INT  NOT NULL,
+	[Discount] INT  NOT NULL,
+	[DateCreated] DATETIME NOT NULL DEFAULT (CURRENT_TIMESTAMP),
+	[LastUpdated] DATETIME NOT NULL DEFAULT (CURRENT_TIMESTAMP),
+	CONSTRAINT PK_Order_Id PRIMARY KEY (Id),
+	CONSTRAINT FK_Order_CustomerId_Customer_Id FOREIGN KEY (CustomerId) REFERENCES [Customer](Id)
+)

@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Color]
+(
+	[Id] INT IDENTITY (1, 1) UNIQUE,
+	[Name] NVARCHAR(30) NOT NULL,	
+	CONSTRAINT PK_Color_Name PRIMARY KEY (Name)
+)
