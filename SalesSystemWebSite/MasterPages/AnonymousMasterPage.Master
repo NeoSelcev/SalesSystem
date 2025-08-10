@@ -1,0 +1,33 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AnonymousMasterPage.Master.cs" Inherits="SalesSystemWebSite.MasterPages.AnonymousMasterPage" %>
+
+<%@ Register Src="~/UserControls/NavigationBar.ascx" TagPrefix="uc" TagName="NavigationBar" %>
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <asp:ContentPlaceHolder ID="TitlePlaceHolder" runat="server">
+        <title>מונטקיו רוג תעשיות בע"מ</title>
+    </asp:ContentPlaceHolder>
+
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="/Styles/main.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="HeadCssPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.min.js"></script>    
+    <asp:ContentPlaceHolder ID="HeadScriptPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+</head>
+<body>
+    <asp:ContentPlaceHolder ID="NavigationBarPlaceHolder" runat="server">
+        <nav style="background-color: black" class="navbar navbar-expand-sm   navbar-light ">
+            <a href="Login.aspx">מונטקיו רוג תעשיות בע"מ</a>
+        </nav>
+    </asp:ContentPlaceHolder>
+    <form id="AuthenticatedForm" runat="server">
+        <asp:ContentPlaceHolder ID="FormPlaceHolder" runat="server"></asp:ContentPlaceHolder>
+    </form>
+</body>
+</html>
