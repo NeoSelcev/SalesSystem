@@ -1,0 +1,6 @@
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\bin\Debug\SalesSystemWebSite.Interfaces.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\bin\Debug\SalesSystemWebSite.Interfaces.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\obj\Debug\SalesSystemWebSite.Interfaces.csproj.CoreCompileInputs.cache
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\obj\Debug\SalesSystemWebSite.Interfaces.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\obj\Debug\SalesSystemWebSite.Interfaces.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.Interfaces\obj\Debug\SalesSystemWebSite.Interfaces.csprojAssemblyReference.cache
