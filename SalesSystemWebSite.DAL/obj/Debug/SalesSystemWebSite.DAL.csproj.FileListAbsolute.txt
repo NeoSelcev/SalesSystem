@@ -1,0 +1,6 @@
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\bin\Debug\SalesSystemWebSite.DAL.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\bin\Debug\SalesSystemWebSite.DAL.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\obj\Debug\SalesSystemWebSite.DAL.csproj.CoreCompileInputs.cache
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\obj\Debug\SalesSystemWebSite.DAL.dll
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\obj\Debug\SalesSystemWebSite.DAL.pdb
+C:\Projects\SalesSystem\SalesSystemWebSite.DAL\obj\Debug\SalesSystemWebSite.DAL.csprojAssemblyReference.cache
